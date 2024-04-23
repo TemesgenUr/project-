@@ -1,5 +1,6 @@
 Group 4
-Artificial Intelligence Project
+Course: Artificial Intelligence:     Project
+Title : ITec4121
                 Group Members
        Name                  Id_number
      1.Abel Ateme...........DBUR/1559/13 
@@ -11,7 +12,7 @@ Artificial Intelligence Project
      7.Kemal Ahmed..........DBUR/4221/13 
 
                    Submitted to instructor: Derebew F.
-                   Submitted date: 14/08/2016 
+                   Submitted date: 14/08/2016 E.C
 
 Questions
 1.Game.c for question number (1)
