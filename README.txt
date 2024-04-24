@@ -2,7 +2,7 @@ Group 4
 Course: Artificial Intelligence:     Project
 Title : ITec4121
                 Group Members
-       Name                  Id_number
+       Name                  ID_number
      1.Abel Ateme...........DBUR/1559/13 
      2.Temesgen Urgesa......DBUR/1015/13
      3.Tsega Sntayehu.......DBUR/4053/13
