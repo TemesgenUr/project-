@@ -8,7 +8,7 @@ def character_frequency_count(string):
     return frequency
 
 def main():
-    user_input = input("Enter a string: ")
+   user_input = input("Enter a string: ")
     count = character_frequency_count(user_input)
     for char, frequency in count.items():
         print(f"{char}: {frequency}")
